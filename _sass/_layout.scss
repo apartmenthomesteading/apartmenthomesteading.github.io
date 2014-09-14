@@ -177,10 +177,9 @@
 			a { text-decoration: none; }
 			p > a,
 			li > a {
-				border-bottom: 1px dotted lighten($link-color, 50);
-				&:hover {
-					border-bottom-style: solid;
-				}
+				border-bottom: 1px solid #cbeefa;
+				box-shadow: inset 0 -4px 0 #cbeefa;
+				color: inherit;
 			}
 			p > a.reversefootnote {
 				border-bottom-width: 0;
