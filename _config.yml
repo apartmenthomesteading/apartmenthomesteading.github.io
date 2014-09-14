@@ -28,9 +28,9 @@ owner:
   google:
     ad-client: 
     ad-slot: 
-  bio: 
+  bio: "I'm documenting my progress on my way to an off-grid tiny house"
   avatar: abandonedhomestead-160x160.jpg # 160x160 px image for author byline
-disqus-shortname:
+disqus-shortname: apartmenthomesteading
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
