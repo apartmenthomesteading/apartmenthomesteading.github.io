@@ -2,5 +2,30 @@
 
 - title: About
   url: /about
-  excerpt: I'm a 24 year old living in one of the most expensive cities
+  excerpt: I'm a 24 year old living in one of the most expensive cities in the US.
   image: apartments-feature.jpg
+
+- title: "Tiny House"
+  url: /tinyhouse
+  excerpt: Here's how I'm planning to build my tiny house.
+  image: tinyhouse-feature.jpg
+
+- title: "Cooking"
+  url: /cooking
+  excerpt: I try everything from crockpot meals to homemade roti.
+  image: cooking-feature.jpg
+
+- title: "Gardening"
+  url: /gardening
+  excerpt: "Microgreens, miracle fruit, and grow lights."
+  image: container-garden-feature.jpg
+
+- title: Philosophy
+  url: /philosophy
+  excerpt: "Stoicism, self-sufficiency, and back-to-the-land tendencies."
+  image: painted-desert-feature.jpg
+
+- title: "Composting"
+  url: /composting
+  excerpt: "Brown + Green + Water + Air = ? "
+  image: composting-feature.jpg
