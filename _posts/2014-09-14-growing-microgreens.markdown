@@ -8,6 +8,8 @@ image:
   teaser: arugula-feature.jpg
   thumb: arugula-feature.jpg
 excerpt: "Winters in Washington, D.C. can get pretty cold and dreary - that's why I'm growing microgreens inside!"
+ads: true
+comments: true
 ---
 
 Winters in Washington, D.C. can get pretty cold and dreary - at least to this California gal. Everything's bare, if there's snow it's slushy, and any of your plants outside are pretty much dead. 
