@@ -10,3 +10,8 @@ image:
 ads: true
 share: true
 ---
+<div class="tiles">
+{% for post in site.categories.philosophy %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->

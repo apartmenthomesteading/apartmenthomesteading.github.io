@@ -11,3 +11,9 @@ ads: true
 share: true
 comments: true
 ---
+
+<div class="tiles">
+{% for post in site.categories.tinyhouse %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
