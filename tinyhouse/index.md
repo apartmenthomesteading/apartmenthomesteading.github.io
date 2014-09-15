@@ -1,0 +1,13 @@
+---
+layout: archive
+title: "Tiny House Plans"
+date: 2014-09-14
+excerpt: "Here's how I'm planning to build my tiny house."
+image:
+  feature: tinyhouse-feature.jpg
+  teaser: tinyhouse-feature.jpg
+  thumb: tinyhouse-feature.jpg
+ads: true
+share: true
+comments: true
+---
