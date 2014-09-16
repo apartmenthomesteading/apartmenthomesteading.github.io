@@ -7,6 +7,8 @@ image:
   feature: painted-desert-feature.jpg
   teaser: painted-desert-teaser.jpg
   thumb: painted-desert-teaser.jpg
+  creditlink: https://flic.kr/p/bfuDQ2
+  credit: Kevin Galens
 ads: true
 share: true
 ---

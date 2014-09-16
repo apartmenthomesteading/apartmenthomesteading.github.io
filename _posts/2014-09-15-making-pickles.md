@@ -7,6 +7,8 @@ image:
   feature: pickles-feature.jpg
   teaser: pickles-teaser.jpg
   thumb: pickles-teaser.jpg
+  credit: Stacy Spensley
+  creditlink: https://flic.kr/p/8eJD2v
 excerpt: "Recipe from Leanne Brown"
 ads: true
 comments: true
