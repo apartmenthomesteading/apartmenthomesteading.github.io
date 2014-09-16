@@ -5,8 +5,8 @@ date:   2014-09-14 12:32:46
 categories: gardening
 image:
   feature: arugula-feature.jpg
-  teaser: arugula-feature.jpg
-  thumb: arugula-feature.jpg
+  teaser: arugula-teaser.jpg
+  thumb: arugula-teaser.jpg
 excerpt: "Winters in Washington, D.C. can get pretty cold and dreary - that's why I'm growing microgreens inside!"
 ads: true
 comments: true
