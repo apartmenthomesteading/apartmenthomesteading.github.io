@@ -7,6 +7,9 @@ image:
   feature: compost-feature.jpg
   teaser: compost-teaser.jpg
   thumb: compost-teaser.jpg
+  creditlink: https://flic.kr/p/7Sbyv9
+  credit: Lindsay
+
 ads: true
 share: true
 ---
