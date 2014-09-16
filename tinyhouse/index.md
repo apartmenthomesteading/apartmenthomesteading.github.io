@@ -5,8 +5,8 @@ date: 2014-09-14
 excerpt: "Here's how I'm planning to build my tiny house."
 image:
   feature: tinyhouse-feature.jpg
-  teaser: tinyhouse-feature.jpg
-  thumb: tinyhouse-feature.jpg
+  teaser: tinyhouse-teaser.jpg
+  thumb: tinyhouse-teaser.jpg
 ads: true
 share: true
 comments: true

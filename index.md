@@ -4,8 +4,8 @@ permalink: /
 title: "Latest Posts"
 image:
   feature: abandonedhomestead-feature.jpg
-  teaser: abandonedhomestead-feature.jpg
-  thumb: abandonedhomestead-feature.jpg
+  teaser: abandonedhomestead-teaser.jpg
+  thumb: abandonedhomestead-teaser.jpg
 ---
 
 <div class="tiles">

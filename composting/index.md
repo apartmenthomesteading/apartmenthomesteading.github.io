@@ -4,9 +4,9 @@ title: "Composting"
 date: 2014-09-14
 excerpt: "Brown + Green + Water + Air = ? "
 image:
-  feature: composting-feature.jpg
-  teaser: composting-feature.jpg
-  thumb: composting-feature.jpg
+  feature: compost-feature.jpg
+  teaser: compost-teaser.jpg
+  thumb: compost-teaser.jpg
 ads: true
 share: true
 ---
