@@ -4,10 +4,10 @@ title:  "Making Your Own Bread"
 date:   2014-09-14 12:32:46
 categories: cooking
 image:
-  feature: bread-feature.jpg
-  teaser: bread-feature.jpg
-  thumb: bread-feature.jpg
-excerpt: "Make your own delicious whole wheat bread with 10 minutes of your time."
+  feature: bread-2-feature.jpg
+  teaser: bread-2-teaser.jpg
+  thumb: bread-2-teaser.jpg
+excerpt: "Make your own delicious whole wheat bread."
 comments: true
 ads: true
 ---
