@@ -7,6 +7,8 @@ image:
   feature: tinyhouse-feature.jpg
   teaser: tinyhouse-teaser.jpg
   thumb: tinyhouse-teaser.jpg
+  credit: Tammy Strobel
+  creditlink: https://flic.kr/p/dKrndr
 ads: true
 share: true
 comments: true

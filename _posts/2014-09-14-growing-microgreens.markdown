@@ -7,6 +7,8 @@ image:
   feature: arugula-feature.jpg
   teaser: arugula-teaser.jpg
   thumb: arugula-teaser.jpg
+  credit: Heather
+  creditlink: https://flic.kr/p/5vbEvT
 excerpt: "Winters in Washington, D.C. can get pretty cold and dreary - that's why I'm growing microgreens inside!"
 ads: true
 comments: true

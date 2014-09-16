@@ -7,6 +7,8 @@ image:
   feature: bread-2-feature.jpg
   teaser: bread-2-teaser.jpg
   thumb: bread-2-teaser.jpg
+  credit: Alan Levine
+  creditlink: https://flic.kr/p/dNJBCq
 excerpt: "Make your own delicious whole wheat bread."
 comments: true
 ads: true
