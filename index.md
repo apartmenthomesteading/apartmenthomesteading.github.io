@@ -6,6 +6,8 @@ image:
   feature: abandonedhomestead-feature.jpg
   teaser: abandonedhomestead-teaser.jpg
   thumb: abandonedhomestead-teaser.jpg
+  credit: Jim Fischer
+  creditlink: https://flic.kr/p/cy9Qw1
 ---
 
 <div class="tiles">

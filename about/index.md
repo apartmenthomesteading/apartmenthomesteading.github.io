@@ -7,6 +7,8 @@ image:
   feature: apartments-feature.jpg
   teaser: apartments-feature.jpg
   thumb: apartments-feature.jpg
+  credit: Kristine Paulus
+  creditlink: https://flic.kr/p/a2MeMB
 ads: false
 share: true
 body-id: about

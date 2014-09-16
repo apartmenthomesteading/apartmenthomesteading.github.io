@@ -7,6 +7,8 @@ image:
   feature: container-garden-feature.jpg
   teaser: container-garden-teaser.jpg
   thumb: container-garden-teaser.jpg
+  credit: Carl Tashian
+  creditlink: https://flic.kr/p/52Y9AG
 ads: true
 share: true
 ---
