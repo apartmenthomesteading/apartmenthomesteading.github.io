@@ -7,6 +7,8 @@ image:
   feature: cooking-feature.jpg
   teaser: cooking-teaser.jpg
   thumb: cooking-teaser.jpg
+  credit: ginnerobot #name of the person or site you want to credit
+  creditlink: https://flic.kr/p/6ubVE1 #url to their site or licensing
 ads: true
 share: true
 ---
