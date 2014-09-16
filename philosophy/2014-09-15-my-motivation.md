@@ -2,7 +2,7 @@
 layout: article
 title:  "My Motivation"
 date:   2014-09-14 12:32:46
-categories: gardening
+categories: philosophy
 image:
   feature: homestead-orange-feature.jpg
   teaser: homestead-orange-teaser.jpg
