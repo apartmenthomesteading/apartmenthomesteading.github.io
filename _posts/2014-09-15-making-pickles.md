@@ -7,7 +7,7 @@ image:
   feature: pickles-feature.jpg
   teaser: pickles-teaser.jpg
   thumb: pickles-teaser.jpg
-excerpt: "Homemade refrigerator pickles"
+excerpt: "Recipe from Leanne Brown"
 ads: true
 comments: true
 ---
