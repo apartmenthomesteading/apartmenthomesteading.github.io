@@ -7,7 +7,7 @@ image:
   feature: pickles-feature.jpg
   teaser: pickles-teaser.jpg
   thumb: pickles-teaser.jpg
-excerpt: "Homemade refridgerator pickles"
+excerpt: "Homemade refrigerator pickles"
 ads: true
 comments: true
 ---
