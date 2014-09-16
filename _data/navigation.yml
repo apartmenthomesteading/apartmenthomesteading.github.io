@@ -8,24 +8,24 @@
 - title: "Tiny House"
   url: /tinyhouse
   excerpt: Here's how I'm planning to build my tiny house.
-  image: tinyhouse-feature.jpg
+  image: tinyhouse-teaser.jpg
 
 - title: "Cooking"
   url: /cooking
   excerpt: I try everything from crockpot meals to homemade roti.
-  image: cooking-feature.jpg
+  image: cooking-teaser.jpg
 
 - title: "Gardening"
   url: /gardening
   excerpt: "Microgreens, miracle fruit, and grow lights."
-  image: container-garden-feature.jpg
+  image: container-garden-teaser.jpg
 
 - title: Philosophy
   url: /philosophy
   excerpt: "Stoicism, self-sufficiency, and back-to-the-land tendencies."
-  image: painted-desert-feature.jpg
+  image: painted-desert-teaser.jpg
 
 - title: "Composting"
   url: /composting
   excerpt: "Brown + Green + Water + Air = ? "
-  image: composting-feature.jpg
+  image: compost-teaser.jpg
