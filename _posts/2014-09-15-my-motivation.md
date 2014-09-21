@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "My Motivation"
+title:  "My Motivation for Homesteading"
 date:   2014-09-14 12:32:46
 categories: philosophy
 image:
@@ -9,9 +9,10 @@ image:
   thumb: homestead-orange-teaser.jpg
   credit: jimmy brown
   creditlink: https://flic.kr/p/en6eQi
-excerpt: "This is probably the most unhappy average citizen in the history of the world."
+excerpt: "Why specialization makes us unhappy."
 ads: true
 comments: true
+featured: true
 ---
 
 My motivation for tiny house living is this passage from <a href="http://www.amazon.com/gp/product/0871568772/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0871568772&linkCode=as2&tag=apartmehomest-20&linkId=SOHPHLFVOG3QJH4X">The Unsettling of America</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=apartmehomest-20&l=as2&o=1&a=0871568772" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />:

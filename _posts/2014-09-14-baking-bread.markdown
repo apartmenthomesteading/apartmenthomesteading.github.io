@@ -12,6 +12,7 @@ image:
 excerpt: "Make your own delicious whole wheat bread."
 comments: true
 ads: true
+featured: true
 ---
 
 I love eating fresh-made bread. My co-workers thought it was hilarious that one of the very first things I bought after graduating from college was a bread maker, but that's how much I love it!

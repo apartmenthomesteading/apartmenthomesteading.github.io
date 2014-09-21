@@ -46,6 +46,24 @@
   text-align: center;
 }
 
+.left {
+  float: left;
+  clear: both;
+}
+
+.right {
+  float: right;
+  clear: both;
+}
+
+small {
+  font-size: 0.875rem;
+  line-height: 1.71429;
+  margin-bottom: 0;
+  font-family: "Helvetica Neue","Segoe UI",Arial,sans-serif;
+  color: #999;
+}
+
 .image-right {
   display: block;
   margin-left: auto;

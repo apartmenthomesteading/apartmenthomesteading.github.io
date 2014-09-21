@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "What I've Done So Far"
 image:
   feature: abandonedhomestead-feature.jpg
   teaser: abandonedhomestead-teaser.jpg
@@ -12,6 +12,18 @@ image:
 
 <div class="tiles">
 {% for post in site.posts %}
-	{% include post-grid.html %}
+	{% if post.featured %}
+		{% include post-grid.html %}
+    {%endif%}
+{% endfor %}
+</div><!-- /.tiles -->
+
+<h1 class="left">Still on my To-Do List</h1>
+
+<div class="tiles">
+{% for post in site.posts %}
+	{% if post.to-do %}
+		{% include post-grid.html %}
+    {%endif%}
 {% endfor %}
 </div><!-- /.tiles -->

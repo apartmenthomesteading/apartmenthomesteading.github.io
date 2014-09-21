@@ -9,9 +9,10 @@ image:
   thumb: pickles-teaser.jpg
   credit: Stacy Spensley
   creditlink: https://flic.kr/p/8eJD2v
-excerpt: "Recipe from Leanne Brown"
+excerpt: "This recipe was delicious and simple. I had to stop myself from chowing down before they were ready!"
 ads: true
 comments: true
+featured: true
 ---
 
 This recipe comes from [Leanne Brown](http://www.leannebrown.com/), a fantastic resource for learning to cook low cost food. She's published two free books - one of which is a cookbook for a $4/day food stamps budget. This recipe comes from the other book "Cooking from Scratch".

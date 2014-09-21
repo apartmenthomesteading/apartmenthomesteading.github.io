@@ -4,14 +4,29 @@ layout: default
 
 <div class="home">
 
-  <h1>Posts</h1>
+  <h1>Things I've Done So Far</h1>
 
   <ul class="posts">
     {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
+      {% if post.published %}
+        <li>
+          <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </li>
+      {%endif%}
+    {% endfor %}
+  </ul>
+
+  <h1>Things on My To-Do List (w/ Full Instructions!)</h1>
+
+    <ul class="posts">
+    {% for post in site.posts %}
+      {% if post.to-do %}
+        <li>
+          <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </li>
+      {%endif%}
     {% endfor %}
   </ul>
 
