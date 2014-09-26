@@ -4,11 +4,9 @@ title: "What's this about?"
 date: 2014-09-14
 excerpt: "Learning to live my dream"
 image:
-  feature: apartments-feature.jpg
-  teaser: apartments-feature.jpg
-  thumb: apartments-feature.jpg
-  credit: Kristine Paulus
-  creditlink: https://flic.kr/p/a2MeMB
+  feature: balcony-about-feature.jpg
+  teaser: balcony-feature.jpg
+  thumb: balcony-feature.jpg
 ads: false
 share: true
 body-id: about
