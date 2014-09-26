@@ -3,7 +3,7 @@ layout: archive
 permalink: /
 title: "What I've Done So Far"
 image:
-  feature: abandonedhomestead-feature.jpg
+  feature: abandonedhomestead-text-2.jpg
   teaser: abandonedhomestead-teaser.jpg
   thumb: abandonedhomestead-teaser.jpg
   credit: Jim Fischer

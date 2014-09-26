@@ -5,8 +5,8 @@ description: "Homesteading in my apartment, planning for my tiny house"
 logo: abandonedhomestead-160x160.jpg #120x120
 teaser: default.png # 400x250 px default teaser image used in image archive grid
 locale: en_US
-#url: http://0.0.0.0:4000
-url: http://apartmenthomesteading.github.io
+url: http://0.0.0.0:4000
+#url: http://apartmenthomesteading.github.io
 
 # Jekyll configuration
 
