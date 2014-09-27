@@ -158,6 +158,9 @@
 	.page-title {
 		@include fill-parent;
 	}
+	h1 {
+		font-family: $big-heading-font;
+	}
 	@at-root {
 		.page-content {
 			@include media($medium) {
