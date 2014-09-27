@@ -10,7 +10,7 @@ image:
   creditlink: https://flic.kr/p/7Sbyv9
   credit: Lindsay
 excerpt: "Calculate how much brown and green waste you can use to get a 30 C:N ratio in your compost bin."
-ads: true
+ads: false
 comments: true
 featured: true
 ---
