@@ -64,7 +64,7 @@ a {
 figcaption {
 	padding-left: 2 * $gutter;
 	padding-right: 2 * $gutter;
-	font-family: $alt-font;
+	font-family: $big-heading-font;
 	@include font-size(12,no,15);
 	color: lighten($text-color, 10);
 	text-align: center;
@@ -88,9 +88,7 @@ figcaption {
 			background: lighten($black, 70);
 		}
 	}
-	a {
-		text-decoration: none;
-	}
+	
 }
 
 // Blockquotes
