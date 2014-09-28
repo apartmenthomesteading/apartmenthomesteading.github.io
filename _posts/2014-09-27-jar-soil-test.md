@@ -10,7 +10,7 @@ image:
   creditlink: https://flic.kr/p/6z7niB
   credit: Cushing Library
 excerpt: "Find out how much clay, sand, and silt you have and what you can do about it."
-ads: false
+ads: true
 comments: true
 featured: true
 ---
