@@ -19,3 +19,7 @@ comments: true
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
+
+I'm still trying to figure out whether to build or buy, and if I build, how the heck I can do it in the city :/
+
+Check back later for more posts!
