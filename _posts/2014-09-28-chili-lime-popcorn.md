@@ -45,6 +45,7 @@ Squeeze two quarters of a lime over the popcorn and stir. Sprinkle the salt and 
 
 <img src="/images/chili-lime-popcorn-post.jpg">
 
+
 More ideas can be found in [Leanne Brown's free cookbook](http://www.leannebrown.com/). Try adding some siracha, or try something different entirely: brown sugar and orange zest, scallions and cilantro, tumeric and coriander, parmesan and black pepper, cayenne and smoked paprika, or parm and oregano. 
 
 
