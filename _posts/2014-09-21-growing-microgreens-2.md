@@ -4,9 +4,9 @@ title:  "Planting Microgreens (Part 2)"
 date:   2014-09-14 12:32:46
 categories: gardening
 image:
-  feature: planting-microgreens-01-feature.jpg
-  teaser: planting-microgreens-01-teaser.jpg
-  thumb: planting-microgreens-01-teaser.jpg
+  feature: microgreens-2w-feature.jpg
+  teaser: microgreens-2w-t.jpg
+  thumb: microgreens-2w-t.jpg
 
 excerpt: "Got the seeds, now to plant!"
 ads: true
