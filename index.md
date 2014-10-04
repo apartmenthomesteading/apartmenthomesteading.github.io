@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Apartment Homesteading: Cooking, Gardening, Saving, and Prepping for my Future Tiny House"
+title: "Cooking, Gardening, Saving, and Prepping for my Future Tiny House"
 image:
   feature: abandonedhomestead-text-2.jpg
   teaser: abandonedhomestead-teaser.jpg
