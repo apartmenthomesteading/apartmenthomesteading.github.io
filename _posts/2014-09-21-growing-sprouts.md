@@ -12,7 +12,7 @@ image:
 excerpt: "All you need is a glass jar, cheesecloth, and some seeds"
 ads: true
 comments: true
-to-do: true
+featured: true
 ---
 
 I haven't yet tried growing sprouts, but here's all you need to start cheaply growing your own, based on recommendations from an awesome book: <a href="http://www.amazon.com/gp/product/B00LJBN0YW/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00LJBN0YW&linkCode=as2&tag=apartmehomest-20&linkId=WKVOZRJB2PD6NVBR">Indoor Kitchen Gardening</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=apartmehomest-20&l=as2&o=1&a=B00LJBN0YW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />. It's definitely worth checking out from your local library or buying.

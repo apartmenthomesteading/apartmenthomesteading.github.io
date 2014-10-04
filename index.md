@@ -17,13 +17,3 @@ image:
     {%endif%}
 {% endfor %}
 </div><!-- /.tiles -->
-
-<h2 class="left">Still on my To-Do List</h2>
-
-<div class="tiles">
-{% for post in site.posts %}
-	{% if post.to-do %}
-		{% include post-grid.html %}
-    {%endif%}
-{% endfor %}
-</div><!-- /.tiles -->
