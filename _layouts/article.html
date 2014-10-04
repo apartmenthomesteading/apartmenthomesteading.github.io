@@ -19,6 +19,8 @@ layout: default
 			<nav class="toc"></nav><!-- /.toc -->
 			<div id="content" class="page-content" itemprop="articleBody">
 				{{ content }}
+			    {% include latest-posts-list.html %}
+
 				<hr />
 				<footer class="page-footer">
 					{% if page.categories %}{% include page-author.html %}{% endif %}
