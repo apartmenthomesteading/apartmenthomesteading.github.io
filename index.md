@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "What I've Done So Far"
+title: "Apartment Homesteading: Cooking, Gardening, Saving, and Prepping for my Future Tiny House"
 image:
   feature: abandonedhomestead-text-2.jpg
   teaser: abandonedhomestead-teaser.jpg
@@ -18,7 +18,7 @@ image:
 {% endfor %}
 </div><!-- /.tiles -->
 
-<h1 class="left">Still on my To-Do List</h1>
+<h2 class="left">Still on my To-Do List</h2>
 
 <div class="tiles">
 {% for post in site.posts %}
