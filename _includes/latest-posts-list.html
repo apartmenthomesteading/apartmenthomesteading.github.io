@@ -1,6 +1,6 @@
 {% capture category_name %}{{ page.categories | first }}{% endcapture %}
-{% if category_name != '' %}
-	<h3>Latest {{ page.categories | first | replace: '-',' ' | capitalize }}</h3>
+{% if category_name != '' and site.categories.[category_name].size > 1 %}
+	<h3>Read more about {{ page.categories | first | replace: '-',' ' | capitalize }}</h3>
 	<ul>
 	{% for post in site.categories.[category_name] limit:5 %}
 		{% if post.title != page.title %}
