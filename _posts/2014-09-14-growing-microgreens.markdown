@@ -4,11 +4,10 @@ title:  "Growing Microgreens"
 date:   2014-09-14 12:32:46
 categories: gardening
 image:
-  feature: arugula-feature.jpg
-  teaser: arugula-teaser.jpg
-  thumb: arugula-teaser.jpg
-  credit: Heather
-  creditlink: https://flic.kr/p/5vbEvT
+  feature: microgreens-setup-feature.jpg
+  teaser: microgreens-setup-teaser.jpg
+  thumb: microgreens-setup-teaser.jpg
+
 excerpt: "Winters in Washington, D.C. can get pretty cold and dreary - that's why I'm growing microgreens inside!"
 ads: true
 comments: true
