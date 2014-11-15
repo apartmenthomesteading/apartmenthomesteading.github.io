@@ -1,7 +1,7 @@
 /*!
  * toc - jQuery Table of Contents Plugin
  * v0.3.0
- * http://projects.jga.me/toc/
+ * //projects.jga.me/toc/
  * copyright Greg Allen 2014
  * MIT License
 */
@@ -9,7 +9,7 @@
 /*!
  * smooth-scroller - Javascript lib to handle smooth scrolling
  * v0.1.0
- * https://github.com/firstandthird/smooth-scroller
+ * //github.com/firstandthird/smooth-scroller
  * copyright First+Third 2014
  * MIT License
 */
